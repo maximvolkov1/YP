@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище HRModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Acceptence">
+          <Key>
+            <PropertyRef Name="IdAcceptance" />
+          </Key>
+          <Property Name="IdAcceptance" Type="int" Nullable="false" />
+          <Property Name="DateAcceptance" Type="date" Nullable="false" />
+          <Property Name="IdEmployee" Type="int" Nullable="false" />
+          <Property Name="IdPost" Type="int" Nullable="false" />
+          <Property Name="IdDepartment" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="IdDepartment" />
+          </Key>
+          <Property Name="IdDepartment" Type="int" Nullable="false" />
+          <Property Name="NameDepartment" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Dismissal">
+          <Key>
+            <PropertyRef Name="IdDismissal" />
+          </Key>
+          <Property Name="IdDismissal" Type="int" Nullable="false" />
+          <Property Name="DateDismissal" Type="date" Nullable="false" />
+          <Property Name="IdEmployee" Type="int" Nullable="false" />
+          <Property Name="IdPost" Type="int" Nullable="false" />
+          <Property Name="IdDepartment" Type="int" Nullable="false" />
+          <Property Name="ReasonForDismissal" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="IdEmployee" />
+          </Key>
+          <Property Name="IdEmployee" Type="int" Nullable="false" />
+          <Property Name="FIO" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="BirthDate" Type="date" Nullable="false" />
+          <Property Name="Gender" Type="nvarchar" MaxLength="7" Nullable="false" />
+          <Property Name="Addres" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Phone" Type="nvarchar" MaxLength="11" Nullable="false" />
+          <Property Name="Education" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="IdPost" Type="int" Nullable="false" />
+          <Property Name="IdDepartment" Type="int" Nullable="false" />
+          <Property Name="IdStaffingTable" Type="int" Nullable="false" />
+          <Property Name="DateAcceptence" Type="date" Nullable="false" />
+          <Property Name="DateDismissal" Type="date" />
+          <Property Name="DateMoving" Type="date" />
+          <Property Name="Salary" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="DaysWorked" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Moving">
+          <Key>
+            <PropertyRef Name="IdMoving" />
+          </Key>
+          <Property Name="IdMoving" Type="int" Nullable="false" />
+          <Property Name="DateMoving" Type="date" Nullable="false" />
+          <Property Name="IdEmployee" Type="int" Nullable="false" />
+          <Property Name="IdPost" Type="int" Nullable="false" />
+          <Property Name="FromDepartment" Type="int" Nullable="false" />
+          <Property Name="InDepartment" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Post">
+          <Key>
+            <PropertyRef Name="IdPost" />
+          </Key>
+          <Property Name="IdPost" Type="int" Nullable="false" />
+          <Property Name="NamePost" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="StaffingTable">
+          <Key>
+            <PropertyRef Name="IdStaffingTable" />
+          </Key>
+          <Property Name="IdStaffingTable" Type="int" Nullable="false" />
+          <Property Name="IdDepartment" Type="int" Nullable="false" />
+          <Property Name="IdPost" Type="int" Nullable="false" />
+          <Property Name="NumberOfEmployees" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Acceptence_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Acceptence" Type="Self.Acceptence" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Acceptence">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Acceptence_Employee">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Acceptence" Type="Self.Acceptence" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="IdEmployee" />
+            </Principal>
+            <Dependent Role="Acceptence">
+              <PropertyRef Name="IdEmployee" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Acceptence_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Acceptence" Type="Self.Acceptence" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Acceptence">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dismissal_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Dismissal" Type="Self.Dismissal" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Dismissal">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dismissal_Employee">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Dismissal" Type="Self.Dismissal" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="IdEmployee" />
+            </Principal>
+            <Dependent Role="Dismissal">
+              <PropertyRef Name="IdEmployee" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dismissal_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Dismissal" Type="Self.Dismissal" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Dismissal">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Employee_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Employee_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Employee_StaffingTable">
+          <End Role="StaffingTable" Type="Self.StaffingTable" Multiplicity="1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StaffingTable">
+              <PropertyRef Name="IdStaffingTable" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="IdStaffingTable" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Moving_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Moving" Type="Self.Moving" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Moving">
+              <PropertyRef Name="FromDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Moving_Employee">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Moving" Type="Self.Moving" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="IdEmployee" />
+            </Principal>
+            <Dependent Role="Moving">
+              <PropertyRef Name="IdEmployee" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Moving_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Moving" Type="Self.Moving" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Moving">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StaffingTable_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="StaffingTable" Type="Self.StaffingTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="StaffingTable">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StaffingTable_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="StaffingTable" Type="Self.StaffingTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="StaffingTable">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище HRModelContainer">
+          <EntitySet Name="Acceptence" EntityType="Self.Acceptence" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Dismissal" EntityType="Self.Dismissal" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Moving" EntityType="Self.Moving" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Post" EntityType="Self.Post" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="StaffingTable" EntityType="Self.StaffingTable" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Acceptence_Department" Association="Self.FK_Acceptence_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Acceptence" EntitySet="Acceptence" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Acceptence_Employee" Association="Self.FK_Acceptence_Employee">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Acceptence" EntitySet="Acceptence" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Acceptence_Post" Association="Self.FK_Acceptence_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Acceptence" EntitySet="Acceptence" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dismissal_Department" Association="Self.FK_Dismissal_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Dismissal" EntitySet="Dismissal" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dismissal_Employee" Association="Self.FK_Dismissal_Employee">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Dismissal" EntitySet="Dismissal" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dismissal_Post" Association="Self.FK_Dismissal_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Dismissal" EntitySet="Dismissal" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Employee_Department" Association="Self.FK_Employee_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Employee_Post" Association="Self.FK_Employee_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Employee_StaffingTable" Association="Self.FK_Employee_StaffingTable">
+            <End Role="StaffingTable" EntitySet="StaffingTable" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Moving_Department" Association="Self.FK_Moving_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Moving" EntitySet="Moving" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Moving_Employee" Association="Self.FK_Moving_Employee">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Moving" EntitySet="Moving" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Moving_Post" Association="Self.FK_Moving_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Moving" EntitySet="Moving" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StaffingTable_Department" Association="Self.FK_StaffingTable_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="StaffingTable" EntitySet="StaffingTable" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StaffingTable_Post" Association="Self.FK_StaffingTable_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="StaffingTable" EntitySet="StaffingTable" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="HRModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Acceptence">
+          <Key>
+            <PropertyRef Name="IdAcceptance" />
+          </Key>
+          <Property Name="IdAcceptance" Type="Int32" Nullable="false" />
+          <Property Name="DateAcceptance" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="IdEmployee" Type="Int32" Nullable="false" />
+          <Property Name="IdPost" Type="Int32" Nullable="false" />
+          <Property Name="IdDepartment" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_Acceptence_Department" FromRole="Acceptence" ToRole="Department" />
+          <NavigationProperty Name="Employee" Relationship="Self.FK_Acceptence_Employee" FromRole="Acceptence" ToRole="Employee" />
+          <NavigationProperty Name="Post" Relationship="Self.FK_Acceptence_Post" FromRole="Acceptence" ToRole="Post" />
+        </EntityType>
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="IdDepartment" />
+          </Key>
+          <Property Name="IdDepartment" Type="Int32" Nullable="false" />
+          <Property Name="NameDepartment" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Acceptence" Relationship="Self.FK_Acceptence_Department" FromRole="Department" ToRole="Acceptence" />
+          <NavigationProperty Name="Dismissal" Relationship="Self.FK_Dismissal_Department" FromRole="Department" ToRole="Dismissal" />
+          <NavigationProperty Name="Employee" Relationship="Self.FK_Employee_Department" FromRole="Department" ToRole="Employee" />
+          <NavigationProperty Name="Moving" Relationship="Self.FK_Moving_Department" FromRole="Department" ToRole="Moving" />
+          <NavigationProperty Name="StaffingTable" Relationship="Self.FK_StaffingTable_Department" FromRole="Department" ToRole="StaffingTable" />
+        </EntityType>
+        <EntityType Name="Dismissal">
+          <Key>
+            <PropertyRef Name="IdDismissal" />
+          </Key>
+          <Property Name="IdDismissal" Type="Int32" Nullable="false" />
+          <Property Name="DateDismissal" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="IdEmployee" Type="Int32" Nullable="false" />
+          <Property Name="IdPost" Type="Int32" Nullable="false" />
+          <Property Name="IdDepartment" Type="Int32" Nullable="false" />
+          <Property Name="ReasonForDismissal" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_Dismissal_Department" FromRole="Dismissal" ToRole="Department" />
+          <NavigationProperty Name="Employee" Relationship="Self.FK_Dismissal_Employee" FromRole="Dismissal" ToRole="Employee" />
+          <NavigationProperty Name="Post" Relationship="Self.FK_Dismissal_Post" FromRole="Dismissal" ToRole="Post" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="IdEmployee" />
+          </Key>
+          <Property Name="IdEmployee" Type="Int32" Nullable="false" />
+          <Property Name="FIO" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="BirthDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Gender" Type="String" MaxLength="7" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Addres" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Phone" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Education" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="IdPost" Type="Int32" Nullable="false" />
+          <Property Name="IdDepartment" Type="Int32" Nullable="false" />
+          <Property Name="IdStaffingTable" Type="Int32" Nullable="false" />
+          <Property Name="DateAcceptence" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="DateDismissal" Type="DateTime" Precision="0" />
+          <Property Name="DateMoving" Type="DateTime" Precision="0" />
+          <Property Name="Salary" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="DaysWorked" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Acceptence" Relationship="Self.FK_Acceptence_Employee" FromRole="Employee" ToRole="Acceptence" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_Employee_Department" FromRole="Employee" ToRole="Department" />
+          <NavigationProperty Name="Dismissal" Relationship="Self.FK_Dismissal_Employee" FromRole="Employee" ToRole="Dismissal" />
+          <NavigationProperty Name="Post" Relationship="Self.FK_Employee_Post" FromRole="Employee" ToRole="Post" />
+          <NavigationProperty Name="StaffingTable" Relationship="Self.FK_Employee_StaffingTable" FromRole="Employee" ToRole="StaffingTable" />
+          <NavigationProperty Name="Moving" Relationship="Self.FK_Moving_Employee" FromRole="Employee" ToRole="Moving" />
+        </EntityType>
+        <EntityType Name="Moving">
+          <Key>
+            <PropertyRef Name="IdMoving" />
+          </Key>
+          <Property Name="IdMoving" Type="Int32" Nullable="false" />
+          <Property Name="DateMoving" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="IdEmployee" Type="Int32" Nullable="false" />
+          <Property Name="IdPost" Type="Int32" Nullable="false" />
+          <Property Name="FromDepartment" Type="Int32" Nullable="false" />
+          <Property Name="InDepartment" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_Moving_Department" FromRole="Moving" ToRole="Department" />
+          <NavigationProperty Name="Employee" Relationship="Self.FK_Moving_Employee" FromRole="Moving" ToRole="Employee" />
+          <NavigationProperty Name="Post" Relationship="Self.FK_Moving_Post" FromRole="Moving" ToRole="Post" />
+        </EntityType>
+        <EntityType Name="Post">
+          <Key>
+            <PropertyRef Name="IdPost" />
+          </Key>
+          <Property Name="IdPost" Type="Int32" Nullable="false" />
+          <Property Name="NamePost" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Acceptence" Relationship="Self.FK_Acceptence_Post" FromRole="Post" ToRole="Acceptence" />
+          <NavigationProperty Name="Dismissal" Relationship="Self.FK_Dismissal_Post" FromRole="Post" ToRole="Dismissal" />
+          <NavigationProperty Name="Employee" Relationship="Self.FK_Employee_Post" FromRole="Post" ToRole="Employee" />
+          <NavigationProperty Name="Moving" Relationship="Self.FK_Moving_Post" FromRole="Post" ToRole="Moving" />
+          <NavigationProperty Name="StaffingTable" Relationship="Self.FK_StaffingTable_Post" FromRole="Post" ToRole="StaffingTable" />
+        </EntityType>
+        <EntityType Name="StaffingTable">
+          <Key>
+            <PropertyRef Name="IdStaffingTable" />
+          </Key>
+          <Property Name="IdStaffingTable" Type="Int32" Nullable="false" />
+          <Property Name="IdDepartment" Type="Int32" Nullable="false" />
+          <Property Name="IdPost" Type="Int32" Nullable="false" />
+          <Property Name="NumberOfEmployees" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_StaffingTable_Department" FromRole="StaffingTable" ToRole="Department" />
+          <NavigationProperty Name="Employee" Relationship="Self.FK_Employee_StaffingTable" FromRole="StaffingTable" ToRole="Employee" />
+          <NavigationProperty Name="Post" Relationship="Self.FK_StaffingTable_Post" FromRole="StaffingTable" ToRole="Post" />
+        </EntityType>
+        <Association Name="FK_Acceptence_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Acceptence" Type="Self.Acceptence" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Acceptence">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Acceptence_Employee">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Acceptence" Type="Self.Acceptence" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="IdEmployee" />
+            </Principal>
+            <Dependent Role="Acceptence">
+              <PropertyRef Name="IdEmployee" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Acceptence_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Acceptence" Type="Self.Acceptence" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Acceptence">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dismissal_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Dismissal" Type="Self.Dismissal" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Dismissal">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Employee_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Moving_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="Moving" Type="Self.Moving" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="Moving">
+              <PropertyRef Name="FromDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StaffingTable_Department">
+          <End Role="Department" Type="Self.Department" Multiplicity="1" />
+          <End Role="StaffingTable" Type="Self.StaffingTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Department">
+              <PropertyRef Name="IdDepartment" />
+            </Principal>
+            <Dependent Role="StaffingTable">
+              <PropertyRef Name="IdDepartment" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dismissal_Employee">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Dismissal" Type="Self.Dismissal" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="IdEmployee" />
+            </Principal>
+            <Dependent Role="Dismissal">
+              <PropertyRef Name="IdEmployee" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Dismissal_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Dismissal" Type="Self.Dismissal" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Dismissal">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Employee_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Employee_StaffingTable">
+          <End Role="StaffingTable" Type="Self.StaffingTable" Multiplicity="1" />
+          <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="StaffingTable">
+              <PropertyRef Name="IdStaffingTable" />
+            </Principal>
+            <Dependent Role="Employee">
+              <PropertyRef Name="IdStaffingTable" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Moving_Employee">
+          <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+          <End Role="Moving" Type="Self.Moving" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Employee">
+              <PropertyRef Name="IdEmployee" />
+            </Principal>
+            <Dependent Role="Moving">
+              <PropertyRef Name="IdEmployee" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Moving_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="Moving" Type="Self.Moving" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="Moving">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_StaffingTable_Post">
+          <End Role="Post" Type="Self.Post" Multiplicity="1" />
+          <End Role="StaffingTable" Type="Self.StaffingTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Post">
+              <PropertyRef Name="IdPost" />
+            </Principal>
+            <Dependent Role="StaffingTable">
+              <PropertyRef Name="IdPost" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="HREntities6" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Acceptence" EntityType="Self.Acceptence" />
+          <EntitySet Name="Department" EntityType="Self.Department" />
+          <EntitySet Name="Dismissal" EntityType="Self.Dismissal" />
+          <EntitySet Name="Employee" EntityType="Self.Employee" />
+          <EntitySet Name="Moving" EntityType="Self.Moving" />
+          <EntitySet Name="Post" EntityType="Self.Post" />
+          <EntitySet Name="StaffingTable" EntityType="Self.StaffingTable" />
+          <AssociationSet Name="FK_Acceptence_Department" Association="Self.FK_Acceptence_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Acceptence" EntitySet="Acceptence" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Acceptence_Employee" Association="Self.FK_Acceptence_Employee">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Acceptence" EntitySet="Acceptence" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Acceptence_Post" Association="Self.FK_Acceptence_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Acceptence" EntitySet="Acceptence" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dismissal_Department" Association="Self.FK_Dismissal_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Dismissal" EntitySet="Dismissal" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Employee_Department" Association="Self.FK_Employee_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Moving_Department" Association="Self.FK_Moving_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="Moving" EntitySet="Moving" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StaffingTable_Department" Association="Self.FK_StaffingTable_Department">
+            <End Role="Department" EntitySet="Department" />
+            <End Role="StaffingTable" EntitySet="StaffingTable" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dismissal_Employee" Association="Self.FK_Dismissal_Employee">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Dismissal" EntitySet="Dismissal" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Dismissal_Post" Association="Self.FK_Dismissal_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Dismissal" EntitySet="Dismissal" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Employee_Post" Association="Self.FK_Employee_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Employee_StaffingTable" Association="Self.FK_Employee_StaffingTable">
+            <End Role="StaffingTable" EntitySet="StaffingTable" />
+            <End Role="Employee" EntitySet="Employee" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Moving_Employee" Association="Self.FK_Moving_Employee">
+            <End Role="Employee" EntitySet="Employee" />
+            <End Role="Moving" EntitySet="Moving" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Moving_Post" Association="Self.FK_Moving_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="Moving" EntitySet="Moving" />
+          </AssociationSet>
+          <AssociationSet Name="FK_StaffingTable_Post" Association="Self.FK_StaffingTable_Post">
+            <End Role="Post" EntitySet="Post" />
+            <End Role="StaffingTable" EntitySet="StaffingTable" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище HRModelContainer" CdmEntityContainer="HREntities6">
+          <EntitySetMapping Name="Acceptence">
+            <EntityTypeMapping TypeName="HRModel.Acceptence">
+              <MappingFragment StoreEntitySet="Acceptence">
+                <ScalarProperty Name="IdAcceptance" ColumnName="IdAcceptance" />
+                <ScalarProperty Name="DateAcceptance" ColumnName="DateAcceptance" />
+                <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+                <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+                <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Department">
+            <EntityTypeMapping TypeName="HRModel.Department">
+              <MappingFragment StoreEntitySet="Department">
+                <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+                <ScalarProperty Name="NameDepartment" ColumnName="NameDepartment" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Dismissal">
+            <EntityTypeMapping TypeName="HRModel.Dismissal">
+              <MappingFragment StoreEntitySet="Dismissal">
+                <ScalarProperty Name="IdDismissal" ColumnName="IdDismissal" />
+                <ScalarProperty Name="DateDismissal" ColumnName="DateDismissal" />
+                <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+                <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+                <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+                <ScalarProperty Name="ReasonForDismissal" ColumnName="ReasonForDismissal" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Employee">
+            <EntityTypeMapping TypeName="HRModel.Employee">
+              <MappingFragment StoreEntitySet="Employee">
+                <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+                <ScalarProperty Name="FIO" ColumnName="FIO" />
+                <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="Addres" ColumnName="Addres" />
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="Education" ColumnName="Education" />
+                <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+                <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+                <ScalarProperty Name="IdStaffingTable" ColumnName="IdStaffingTable" />
+                <ScalarProperty Name="DateAcceptence" ColumnName="DateAcceptence" />
+                <ScalarProperty Name="DateDismissal" ColumnName="DateDismissal" />
+                <ScalarProperty Name="DateMoving" ColumnName="DateMoving" />
+                <ScalarProperty Name="Salary" ColumnName="Salary" />
+                <ScalarProperty Name="DaysWorked" ColumnName="DaysWorked" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Moving">
+            <EntityTypeMapping TypeName="HRModel.Moving">
+              <MappingFragment StoreEntitySet="Moving">
+                <ScalarProperty Name="IdMoving" ColumnName="IdMoving" />
+                <ScalarProperty Name="DateMoving" ColumnName="DateMoving" />
+                <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+                <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+                <ScalarProperty Name="FromDepartment" ColumnName="FromDepartment" />
+                <ScalarProperty Name="InDepartment" ColumnName="InDepartment" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Post">
+            <EntityTypeMapping TypeName="HRModel.Post">
+              <MappingFragment StoreEntitySet="Post">
+                <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+                <ScalarProperty Name="NamePost" ColumnName="NamePost" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StaffingTable">
+            <EntityTypeMapping TypeName="HRModel.StaffingTable">
+              <MappingFragment StoreEntitySet="StaffingTable">
+                <ScalarProperty Name="IdStaffingTable" ColumnName="IdStaffingTable" />
+                <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+                <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+                <ScalarProperty Name="NumberOfEmployees" ColumnName="NumberOfEmployees" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

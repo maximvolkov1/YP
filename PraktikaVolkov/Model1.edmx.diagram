@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f8bab817e2094762855a048e582c910b" Name="Diagram1">
+        <EntityTypeShape EntityType="HRModel.Acceptence" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRModel.Department" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRModel.Dismissal" Width="1.5" PointX="6" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRModel.Employee" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRModel.Moving" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRModel.Post" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRModel.StaffingTable" Width="1.5" PointX="3" PointY="11.875" IsExpanded="true" />
+        <AssociationConnector Association="HRModel.FK_Acceptence_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Acceptence_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Acceptence_Post" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Dismissal_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Employee_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Moving_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_StaffingTable_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Dismissal_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Dismissal_Post" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Employee_Post" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Employee_StaffingTable" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Moving_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_Moving_Post" ManuallyRouted="false" />
+        <AssociationConnector Association="HRModel.FK_StaffingTable_Post" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

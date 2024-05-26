@@ -1,0 +1,12 @@
+﻿<Window x:Class="PraktikaVolkov.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PraktikaVolkov"
+        mc:Ignorable="d"
+        Title="Отдел кадров" Height="450" Width="1000" Icon="/free-icon-human-resources-1556229.png"> 
+    <Frame x:Name="MFrame" NavigationUIVisibility="Hidden">
+        
+    </Frame>
+</Window>

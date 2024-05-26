@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище HRModelContainer" CdmEntityContainer="HREntities6">
+    <EntitySetMapping Name="Acceptence">
+      <EntityTypeMapping TypeName="HRModel.Acceptence">
+        <MappingFragment StoreEntitySet="Acceptence">
+          <ScalarProperty Name="IdAcceptance" ColumnName="IdAcceptance" />
+          <ScalarProperty Name="DateAcceptance" ColumnName="DateAcceptance" />
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+          <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Department">
+      <EntityTypeMapping TypeName="HRModel.Department">
+        <MappingFragment StoreEntitySet="Department">
+          <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+          <ScalarProperty Name="NameDepartment" ColumnName="NameDepartment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dismissal">
+      <EntityTypeMapping TypeName="HRModel.Dismissal">
+        <MappingFragment StoreEntitySet="Dismissal">
+          <ScalarProperty Name="IdDismissal" ColumnName="IdDismissal" />
+          <ScalarProperty Name="DateDismissal" ColumnName="DateDismissal" />
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+          <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+          <ScalarProperty Name="ReasonForDismissal" ColumnName="ReasonForDismissal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employee">
+      <EntityTypeMapping TypeName="HRModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Addres" ColumnName="Addres" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Education" ColumnName="Education" />
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+          <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+          <ScalarProperty Name="IdStaffingTable" ColumnName="IdStaffingTable" />
+          <ScalarProperty Name="DateAcceptence" ColumnName="DateAcceptence" />
+          <ScalarProperty Name="DateDismissal" ColumnName="DateDismissal" />
+          <ScalarProperty Name="DateMoving" ColumnName="DateMoving" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="DaysWorked" ColumnName="DaysWorked" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Moving">
+      <EntityTypeMapping TypeName="HRModel.Moving">
+        <MappingFragment StoreEntitySet="Moving">
+          <ScalarProperty Name="IdMoving" ColumnName="IdMoving" />
+          <ScalarProperty Name="DateMoving" ColumnName="DateMoving" />
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+          <ScalarProperty Name="FromDepartment" ColumnName="FromDepartment" />
+          <ScalarProperty Name="InDepartment" ColumnName="InDepartment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Post">
+      <EntityTypeMapping TypeName="HRModel.Post">
+        <MappingFragment StoreEntitySet="Post">
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+          <ScalarProperty Name="NamePost" ColumnName="NamePost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StaffingTable">
+      <EntityTypeMapping TypeName="HRModel.StaffingTable">
+        <MappingFragment StoreEntitySet="StaffingTable">
+          <ScalarProperty Name="IdStaffingTable" ColumnName="IdStaffingTable" />
+          <ScalarProperty Name="IdDepartment" ColumnName="IdDepartment" />
+          <ScalarProperty Name="IdPost" ColumnName="IdPost" />
+          <ScalarProperty Name="NumberOfEmployees" ColumnName="NumberOfEmployees" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,574 @@
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\HRDepartment.mdf
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\HRDepartment_log.ldf
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\source\repos\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\OneDrive\Рабочий стол\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.SuggestedBindingRedirects.cache
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\k256\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PayrollCalculation.g.cs
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PayrollCalculation.baml
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\student.COMP3\Desktop\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+E:\УП 11.01 Волков 1\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.dll
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.pdb
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.pdb
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.xml
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.g.cs
+C:\Users\student.COMP3\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.dll
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.pdb
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.xml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.SuggestedBindingRedirects.cache
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\k256\Desktop\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR.mdf
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\HR_log.ldf
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe.config
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\PraktikaVolkov.pdb
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.pdb
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\System.Drawing.Common.xml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.AssemblyReference.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.ResolveComReference.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\App.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_Content.g.cs
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov_MarkupCompile.lref
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\MainWindow.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AcceptancePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddAcceptancePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDepartmentPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddDismissalPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddEmployeePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddMovingPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddPostPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\AddStaffingTablePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\CalculationsPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DepartmentPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\DismissalPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\EmployeePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MainPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\MovingPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\PostPage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\Pages\StaffingTablePage.baml
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.g.resources
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.Properties.Resources.resources
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.GenerateResource.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CoreCompileInputs.cache
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.csproj.CopyComplete
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.exe
+C:\Users\mvolk\OneDrive\Рабочий стол\отчеты за 1 семестр 3 курс\PraktikaVolkov\PraktikaVolkov\obj\Debug\PraktikaVolkov.pdb

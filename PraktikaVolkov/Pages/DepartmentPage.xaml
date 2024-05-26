@@ -1,0 +1,35 @@
+﻿<Page x:Class="PraktikaVolkov.Pages.DepartmentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PraktikaVolkov.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="White"
+      Title="DepartmentPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <ListView x:Name="DepartmentLV" Background="#FFFFFEDC">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding IdDepartment}"/>
+                        <TextBlock Text="{Binding NameDepartment}"/>
+                        <Button Content="Изменить" Margin="5" Width="150" Height="20" FontFamily="Constantia" x:Name="editbtn" Click="editbtn_Click" Background="Khaki"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Background="Khaki">
+            <Button x:Name="addbtn" Content="Добавить" Margin="5" Width="150" Height="30" Click="addbtn_Click" FontFamily="Constantia" FontSize="14" Background="#FFFFFEDC"/>
+            <Button x:Name="delbtn" Content="Удалить" Margin="5" Width="150" Height="30" Click="delbtn_Click" FontFamily="Constantia" FontSize="14" Background="#FFFFFEDC"/>
+            <Button x:Name="updatebtn" Content="Обновить" Margin="5" Width="150" Height="30" Click="updatebtn_Click" FontFamily="Constantia" FontSize="14" Background="#FFFFFEDC"/>
+            <Button x:Name="backbtn" Content="Назад" Margin="5" Width="150" Height="30" Click="backbtn_Click" FontFamily="Constantia" FontSize="14" Background="#FFFFFEDC"/>
+        </StackPanel>
+    </Grid>
+</Page>
